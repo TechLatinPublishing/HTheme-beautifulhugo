@@ -1,3 +1,4 @@
-module github.com/TechLatinPublishing/TLP-CSMAIN004
+module github.com/TechLatinPublishing/HTheme-beautifulhugo
+
 
 go 1.20
